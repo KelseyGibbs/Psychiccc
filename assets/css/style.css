@@ -1,0 +1,22 @@
+
+h2 {
+    color: #4aaaa5;
+    font-size: .25in;
+}
+
+h1 {
+    width: 100%;
+    background-color: #ffffff;
+    height: 50px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+body {
+    color: #777777;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    border: 20px solid black;
+    margin-top: 3in;
+}
